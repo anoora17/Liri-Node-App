@@ -1,0 +1,20 @@
+{
+  "name": "liri-app",
+  "version": "1.0.0",
+  "description": "CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anoor17",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.5",
+    "omdbapi": "^2.0.1",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1",
+    "utils": "^0.3.1"
+  }
+}
